@@ -2,21 +2,21 @@
 
 ## Mardi 23/07/2019
 
-* [ ] Découverte du Markdown : 
-  * [ ] Comprendre l'intérêt du Markdown
-  * [ ] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
-    * [ ] Listes
-    * [ ] Formatage de texte (italique, souligné, gras)
-    * [ ] Code
-    * [ ] Citations
-    * [ ] Tableaux
-    * [ ] Liens
-  * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier Linux : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+* [X] Découverte du Markdown : 
+  * [X] Comprendre l'intérêt du Markdown
+  * [X] Découvrir les balises de bases : 
+    * [X] Titres
+    * [X] Images
+    * [X] Listes
+    * [X] Formatage de texte (italique, souligné, gras)
+    * [X] Code
+    * [X] Citations
+    * [X] Tableaux
+    * [X] Liens
+  * [X] Faire le parcours "how-to-markdown" (Nodeschool.io)
+* [X] Comprendre l'intérêt des raccourcis clavier
+* [X] Découverte des raccourcis clavier Linux : 
+  * [X] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [X] Terminal (fenêtres, onglets, commandes)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
 * [ ] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
