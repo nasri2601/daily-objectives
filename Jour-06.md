@@ -19,4 +19,4 @@
   * [X] Navigateur (fenêtres, onglets, navigation, etc …)
   * [X] Terminal (fenêtres, onglets, commandes)
   * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
-* [ ] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
+* [X] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
