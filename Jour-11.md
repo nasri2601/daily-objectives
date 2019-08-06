@@ -4,7 +4,7 @@
 
 
 * [ ] Javascript :
-  * [ ] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
+  * [X] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
   * [X] Faire l'exercice
 
 * [X] Algo : 
