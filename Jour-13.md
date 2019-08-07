@@ -3,8 +3,8 @@
 ## Mercredi 07/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
+* [X] Javascript :
+  * [X] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
     * [X] Comprendre la différence entre unaire, binaire et opérande
     * [X] Comprendre la concaténation
     * [X] Comprendre la précédence des opérateurs
