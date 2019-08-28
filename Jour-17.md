@@ -4,12 +4,12 @@
 
 
 * [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
+  * [X] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
     * [ ] Faire les 9 exercices
 
-* [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Bubble Sort (création pure)
-  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+* [X] Algo : 
+  * [X] Ecrire en pseudocode le Bubble Sort (création pure)
+  * [X] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [ ] CSS : 
   * [ ] Découvrir l'architecture `7-1` :
