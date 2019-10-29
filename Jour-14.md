@@ -2,25 +2,26 @@
 
 ## Lundi 19/08/2019
 
+- [x] Javascript :
 
-* [X] Javascript :
-  * [X] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
-    * [X] Comprendre comment sont comparés les strings ?
-    * [X] Comprendre quelle est la différence entre `==` et `===` ?
-    * [X] Comprendre comment sont comparées des valeurs de types différents ?
-    * [X] Comprendre le mécanisme de comparaison avec `null` et `undefined`
+  - [x] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
+    - [x] Comprendre comment sont comparés les strings ?
+    - [x] Comprendre quelle est la différence entre `==` et `===` ?
+    - [x] Comprendre comment sont comparées des valeurs de types différents ?
+    - [x] Comprendre le mécanisme de comparaison avec `null` et `undefined`
 
-* [ ] Algo (Révision) : 
-  * [X] Revoir le mécanisme de tri par insertion (Insertion Sort)
-  * [X] Revoir le mécanisme de tri à bulles (Bubble Sort)
-  * [X] Revoir le mécanisme de tri par selection (Selection Sort)
-  * [X] Revoir le mécanisme de tri par tas (Heap Sort)
-  * [X] Revoir le mécanisme de tri fusion (Merge Sort)
+- [ ] Algo (Révision) :
 
-* [ ] CSS : 
-  * [X] Découverte des icones vectorielles (https://fontawesome.com/)
-  * [X] Découverte des préprocesseurs CSS :
-    * [X] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
-    * [ ] Comprendre le mécanisme du preprocessing (input => output)
-    * [ ] Découvrir le préprocesseur CSS le plus répandu : SASS
-      * [X] Installation de SASS (npm version)
+  - [x] Revoir le mécanisme de tri par insertion (Insertion Sort)
+  - [x] Revoir le mécanisme de tri à bulles (Bubble Sort)
+  - [x] Revoir le mécanisme de tri par selection (Selection Sort)
+  - [x] Revoir le mécanisme de tri par tas (Heap Sort)
+  - [x] Revoir le mécanisme de tri fusion (Merge Sort)
+
+- [ ] CSS :
+  - [x] Découverte des icones vectorielles (https://fontawesome.com/)
+  - [x] Découverte des préprocesseurs CSS :
+    - [x] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS
+    - [x] Comprendre le mécanisme du preprocessing (input => output)
+    - [x] Découvrir le préprocesseur CSS le plus répandu : SASS
+      - [x] Installation de SASS (npm version)

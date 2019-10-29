@@ -2,16 +2,17 @@
 
 ## Mardi 20/08/2019
 
+- [x] Javascript :
 
-* [ ] Javascript :
-  * [X] Comprendre le fonctionnement des interactions dans le navigateur avec l'`alert`, le `prompt` et le `confirm` (https://javascript.info/alert-prompt-confirm)
-    * [X] Faire l'exercice
+  - [x] Comprendre le fonctionnement des interactions dans le navigateur avec l'`alert`, le `prompt` et le `confirm` (https://javascript.info/alert-prompt-confirm)
+    - [x] Faire l'exercice
 
-* [X] Algo : 
-  * [X] Découvrir le tri rapide (Quicksort)
+- [x] Algo :
 
-* [ ] CSS : 
-  * [X] Savoir compiler du SCSS (`sass --watch`)
-  * [X] Comprendre le principe et le fonctionnement des variables dans SASS
-  * [X] Comprendre l'imbrication dans SASS (Nesting)
-  * [ ] Comprendre l'utilité et le fonctionnement des partials dans SASS et l'importation (`@import`)
+  - [x] Découvrir le tri rapide (Quicksort)
+
+- [ ] CSS :
+  - [x] Savoir compiler du SCSS (`sass --watch`)
+  - [x] Comprendre le principe et le fonctionnement des variables dans SASS
+  - [x] Comprendre l'imbrication dans SASS (Nesting)
+  - [x] Comprendre l'utilité et le fonctionnement des partials dans SASS et l'importation (`@import`)

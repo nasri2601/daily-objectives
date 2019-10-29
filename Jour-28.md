@@ -2,17 +2,15 @@
 
 ## Lundi 23/09/2019
 
-* [ ] Javascript :
+- [x] Javascript :
 
-  * [ ] Découvrir `Map` et `Set` (https://javascript.info/map-set)
-    * [ ] Comprendre la principale différence entre les deux.
-    * [ ] Faire les exercices
-  
+  - [x] Découvrir `Map` et `Set` (https://javascript.info/map-set)
+    - [x] Comprendre la principale différence entre les deux.
+    - [x] Faire les exercices
 
+* [x] DOM :
 
-* [ ] DOM : 
+  - [x] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
 
-  * [ ] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
-
-  * [ ] Comprendre la délégation d'évènements (https://javascript.info/event-delegation)
-    * [ ] Faire les exercices
+  - [x] Comprendre la délégation d'évènements (https://javascript.info/event-delegation)
+    - [x] Faire les exercices

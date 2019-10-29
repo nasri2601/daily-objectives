@@ -2,17 +2,18 @@
 
 ## Lundi 05/08/2019
 
+- [x] Javascript :
 
-* [ ] Javascript :
-  * [X] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
-  * [X] Faire l'exercice
+  - [x] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
+  - [x] Faire l'exercice
 
-* [X] Algo : 
-  * [X] Découvrir le tri par selection (Selection Sort)
+- [x] Algo :
 
-* [ ] CSS : 
-  * [X] Savoir manipuler les polices en CSS
-  * [X] Découvrir Google Fonts
-  * [X] Savoir intégrer des polices extérieures dans le CSS
-  * [X] Comprendre la notion de cascade en CSS
-  * [X] Comprendre le fonctionnement de l'héritage en CSS
+  - [x] Découvrir le tri par selection (Selection Sort)
+
+- [x] CSS :
+  - [x] Savoir manipuler les polices en CSS
+  - [x] Découvrir Google Fonts
+  - [x] Savoir intégrer des polices extérieures dans le CSS
+  - [x] Comprendre la notion de cascade en CSS
+  - [x] Comprendre le fonctionnement de l'héritage en CSS
